@@ -1,0 +1,30 @@
+.img-hover {
+    position: relative;
+	overflow: hidden;
+
+	margin-bottom: 12px;
+}
+
+.img-hover img {
+	margin-bottom: 0px;
+}
+
+.img-hover-meta {
+	transition:all 0.25s ease-in-out;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+    bottom: -40px;
+	right: 10px;
+    color: #000;
+    display: block;
+    font-weight: bold;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    text-align: right;
+    width: 100%;
+}
+
+.img-hover-meta.reveal {
+	bottom: 0px;
+}
