@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Pin Image Shortcode
-Plugin URI: http://choppingblock.com/pinimages.html
+Plugin URI: https://github.com/designedbyscience/Wordpress-Pin-Image-Shortcode-Plugin
 Description: Add Pin It button to images that appears on hover
 Version: 1.0
 Author: Matthew Richmond and Eric Haseltine
